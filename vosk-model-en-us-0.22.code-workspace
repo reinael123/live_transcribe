@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "vosk-model-en-us-0.22",
+		"path": "../../Users/reina/Downloads/vosk-model-en-us-0.22"
+	},
+	{
+		"name": "speech to text",
+		"path": "."
+	}
+],
+  "settings": {}
+}
